@@ -10,7 +10,8 @@
   <packaging>pom</packaging>
 
   <modules>
-    <module>result-serialize-4.12</module>
+    <module>result-serialize-4.10</module>
     <module>result-serialize-4.11</module>
+    <module>result-serialize-4.12</module>
   </modules>
 </project>
